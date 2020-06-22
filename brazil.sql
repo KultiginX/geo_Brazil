@@ -2,6 +2,9 @@
 Kultigin Bozdemir
 DBS2 exam, 2020
 source of data: https://www.kaggle.com/andresionek/geospatial-analysis-of-brazilian-e-commerce/notebook?
+A png picture shows the relations betweenn tables.
+The project is stored in a Github repo.
+https://github.com/KultiginX/geo_Brazil
 */
 
 drop table if exists customers;
